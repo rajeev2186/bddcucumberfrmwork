@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Lakshay",
+    "lastName": "Sharma",
+    "emailAddress": "Lakshay@Gmail.com",
+    "company": "XYZ",
+    "address": {
+      "streetAddress1": "YYYYY",
+      "city": "Delhi",
+      "postCode": "110088",
+      "state": "Alaska",
+      "country": "United States",
+      "mob": "0987654321"
+    }
+  },
+  {
+    "firstName": "akshay",
+    "lastName": "harma",
+    "emailAddress": "Lakshay@Gmail.com",
+    "company": "XYZ",
+    "address": {
+      "streetAddress1": "YYYYY",
+      "city": "Delhi",
+      "postCode": "110088",
+      "state": "Alaska",
+      "country": "United States",
+      "mob": "0987654321"
+    }
+  }
+]

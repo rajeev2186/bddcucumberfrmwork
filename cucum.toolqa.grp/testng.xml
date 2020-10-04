@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="My First Suite">
+	<test name="BDD TestCases">
+		<classes>
+			<class name="cucum.toolqa.grp.testrunner.testrunner" />
+
+
+		</classes>
+	</test>
+
+
+</suite>
